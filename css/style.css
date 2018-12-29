@@ -37,6 +37,16 @@ body{
 	padding: 15px;
 }
 
+#gifts{
+    background-color: #875892;
+    padding: 15px;
+
+}
+#stance{
+    background-color:#FFAC33;
+    padding: 15px;
+}
+
 #scroll {
     position:fixed;
     right:10px;

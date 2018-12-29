@@ -38,15 +38,21 @@
 						<h1 class="display-3">Welcome</h1>
 						Hi everyone!<br>
 
-						Thank you for visiting<br>
+						Thank you for visiting.<br>
 						We can't wait to share our special day with you!<br>
 
 						We are really looking forward to celebrating our big day with all of you.<br>
 
-						On this website you will be able to RSVP to the invites, find out essential info on how to get to the venue, wedding gifts and where to stay.<br>
+						On this website you will be able to reply with your RSVP, find out info on how to get to the venue, wedding gifts and where to stay.<br>
 
-						Manchester, Mallorca<br>
-						Saturday May 25th, 2019<br>
+						Again, thank you for having a look at our website and we look forward to seeing you there! <br> 
+						<br>
+
+                        Char & José <br>
+                        xxx <br>
+
+
+
 					</p>
 				</div>
 				<div class="col-md-6">
@@ -55,14 +61,23 @@
 						Hola a todos!<br>
 
 						Gracias por vuestra visita.<br> 
-						Estamos deseando que llegue el dia para compartir con vosotros<br>
+						Estamos deseando que llegue nuestro día!<br>
 
-						En esta web podrán confirmar su asistencia y encontrar información esencial de como llegar y también de su acomodamiento.<br>
+						Tenemos muchísimas ganas de celebrarlo con todos vosotros.<br>
 
-						De nuevo, darle las gracias por visitar nuestra web, esperamos que llegue el dia para tomar una copa con ustedes y celebrar nuestro matrimonio!
+						En esta web podrán confirmar su asistencia, encontrar información de como llegar a la finca, regalos de boda y donde acomodarse.<br>
+
+						De nuevo, darles las gracias por visitar la web y estamos deseando que llegue el día para compartirlo con vosotros! <br> <br>
+
+						Char & José <br>
+						xxx <br>
+
 					</p>
 				</div>
 				<div class="col-md-12">
+
+						Manchester, Mallorca<br>
+						Saturday May 25th, 2019<br>
 					<div id="countdown"></div>	
 				</div>
 
@@ -76,20 +91,24 @@
 				<div class="col-md-6">
 
 					<blockquote class="blockquote text-center">
-						<h3 class="display-3">RSVP Here</h3>
+						<h3 class="display-3">RSVP</h3>
 						<p class="mb-0">
 							Please kindly reply with your RSVP before March 1st 2019.
-					Simply enter your name in the text box below to let us know.<br>
+					Simply enter your name and surname in the text box below.<br>
 
 						</p>
-						<h3 class="display-3">Any Queries?</h3>
-						<p>If you have any queries on anything please call or e-mail us here:</p>
+						
+						<p>If you have any questions on anything please call or email us here:</p>
 					</blockquote>
 				</div>
 				<div class="col-md-6 d-none d-md-block ">
 					<blockquote class="blockquote text-center">
+						<h3 class="display-3">Confirmación</h3>
 						<p class="mb-0">
-							Necesitamos que confirmen su asistencia. Rellenen los nombres de las persona que asistirán a la celebración y si necesitan algún tipo de información adicional también pueden contactar con nosotros por las dudas que tengan.
+							Porfavor confirmen su asistencia antes del 1 de Marzo 2019. <br>
+							Rellenen su nombre y apellidos en el siguiente formulario. <br>
+
+							 Si teneis alguna duda porfavor contactar con nosotros por aquí: <br>
 						</p>
 					</blockquote>
 				</div>
@@ -101,13 +120,13 @@
 					<div class="contact-box">
 						<ins>Charlotte</ins>
 						<br><em>Mobile:</em> <strong><a href="tel:+34646321122">+34 646 921 122 </a></strong> <br>
-						<em>E-mail :</em>  <strong>  <a href="mailto:charlotte.w.91@hotmail.com?Subject=Wedding">charlotte.w.91@hotmail.com</a></strong><br>
+						<em>Email :</em>  <strong>  <a href="mailto:charlotte.w.91@hotmail.com?Subject=Wedding">charlotte.w.91@hotmail.com</a></strong><br>
 					</div>
 
 					<div class="contact-box">
 						<ins>Jose</ins><br>
 						<em>Mobile:</em><strong><a href="tel:+34679789367">+34 679 789 367</a></strong><br> 
-						<em>E-mail: </em> <strong> <a href="mailto:jo_se_ma@hotmail.com?Subject=Wedding">jo_se_ma@hotmail.com</a> </strong><br>
+						<em>Email: </em> <strong> <a href="mailto:jo_se_ma@hotmail.com?Subject=Wedding">jo_se_ma@hotmail.com</a> </strong><br>
 					</div>
 				
 				</p>	
@@ -115,6 +134,8 @@
 				<div class="col-md-6">
 					<blockquote class="blockquote text-center">
 					<div class="col-md-6 d-block d-sm-block d-md-none ">
+						<h3 class="display-3">Confirmación</h3>
+
 						<p class="mb-0">
 							Necesitamos que confirmen su asistencia. Rellenen los nombres de las persona que asistirán a la celebración y si necesitan algún tipo de información adicional también pueden contactar con nosotros por las dudas que tengan.
 						</p>
@@ -142,7 +163,7 @@
 					<div class="form-group">
 						<label>Name / Nombre</label>
 			    		<input id="name" name="name" class="form-control" value=""><br>
-			    		<label>Last Name Apellidos</label>
+			    		<label>Surname / Apellidos</label>
 			    		<input id="lastname" name="lastname" class="form-control" value="" ><br>
 			    		<label>Email</label>
 			    		<input type="email" name="mail" class="form-control">
@@ -157,35 +178,107 @@
 		<div id="map" class="tap">
 			<div class="row">
 				<div class="col-md-6">
-					<h1 class="display-3">How to get there</h1>
+					
 					<blockquote class="blockquote text-center">
+						<h1 class="display-3">Location</h1>
 						<h5>Directions to venue</h5>
 						<p class="mb-0">
-							If you are driving, ther are plenty of car parking spaces available
+							If you are driving, there are plenty of car parking spaces available
 						</p>
 					</blockquote>
 
 				</div>
 				<div class="col-md-6">
-					<h1 class="display-3">Como llegar</h1>
-										<blockquote class="blockquote text-center">
-											<h5>Indicaciones a la ceremonia</h5>
+					
+					<blockquote class="blockquote text-center">
+						<h1 class="display-3">Ubicación</h1>
+						<h5>Indicaciones a la finca</h5>
 						<p class="mb-0">
-							Si usted va a conducir le informamos que dispondrá de fácil aparcamiento.
+							Si va a conducir le informamos que dispondrá de fácil aparcamiento.
 						</p>
 					</blockquote>
 				</div>
 			</div>
 			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3071.159862008628!2d2.6662976390633295!3d39.66861838902988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1297ec50d2281bdd%3A0xa2e6f3de15834482!2sSes+Cases+De+Sa+Font+Seca!5e0!3m2!1ses!2ses!4v1544525221433" width="100%" height="600" frameborder="0" style="border:0" allowfullscreen></iframe>
+			<div class="row">
 			<div class="col-md-6">
 					
 						<blockquote class="blockquote text-center">
-							<h3>Ses Cases de sa Font Seca</h3>
+							<h3>Ses Cases de Sa Font Seca</h3>
 							<p class="mb-0">
-								Ses cases de sa font seca is a 17th century country estate that pretty much caught our eyes the second we walked in.<br>
-								Surrounded by friends and family Charlotte and Jose's intimate ceremony wil take place in the incredible amphitheatre at the venue, followed by drinks and amazing music as the sun goes down. A beautiful dinner, sensational speechers and some epic dancing followed, with the party continuing into the early hours.
+								Ses cases de Sa Font Seca is a 17th century country estate that pretty much caught our eyes the second we walked in.<br>
+								Surrounded by friends and family our intimate ceremony will take place in the amphitheatre at the venue, followed by drinks and amazing music as the sun goes down. A beautiful dinner, sensational speeches and some epic dancing followed, with the party continuing into the early hours.
 							</p>
 						</blockquote>
+			</div>
+			<div class="col-md-6">
+					
+						<blockquote class="blockquote text-center">
+							<h3>Ses Cases de Sa Font Seca</h3>
+							<p class="mb-0">
+								Ses cases de Sa Font Seca es una gran "possessió" mallorquina del siglo XVII que nos cautivo a primera vista.<br>
+								Rodeados por amigos y familía, nuestra intima ceremonia tendrá lugar en el anfiteatro de la finca, acompañados de bebidas e increible música hasta el atardecer. Finalmente habrá una cena, discursos seguidos de una noche de baile con una gran fiesta hasta media noche. 
+							</p>
+						</blockquote>
+			</div>
+			</div>
+		</div>
+		<div id="gifts" class="tap">
+			<div class="row">
+				<div class="col-md-6">
+					<blockquote class="blockquote text-center">
+					<h3 class="display-3">Gifts</h3>
+					<p class="mb-0">
+							An exciting time is coming our way, and your presence at our wedding is the greatest gift of all.<br><br>
+							However, if you wish to help us on our way, we will be very grateful for a gift of money towards our new future together.
+
+						</p>
+					</blockquote>
+				</div>
+				<div class="col-md-6">
+					<blockquote class="blockquote text-center">
+						<h3 class="display-3">Regalos</h3>
+						<p class="mb-0">
+							Se acerca un gran dia y vuestra presencia en nuestra boda es un gran regalo.<br><br>
+							Aún así, si deseas colaborar, estaremos muy agradecidos por que contribuyas a nuestro futuro juntos.
+
+						</p>
+					</blockquote>
+					
+				</div>
+			</div>
+		</div>
+		<div class="tap" id="stance">
+			<div class="row">
+				<div class="col-md-6">
+					<blockquote class="blockquote text-center">
+						<h3 class="display-3">Where to Stay</h3>
+						<p class="mb-0">
+							For those of our guests wishing to stay overnight in a hotel, we recommend the following three options:
+
+						</p>
+					</blockquote>
+				</div>
+				<div class="col-md-6">
+					<blockquote class="blockquote text-center">
+						<h3 class="display-3">Alojamiento</h3>
+						<p class="mb-0">
+							Para aquellos invitados que deseen pasar la noche alojados en un hotel les recomendamos las siguientes tres opciones:
+						</p>
+					</blockquote>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-md-12">
+					<ul class="list-group">
+					  <li class="list-group-item active">Sol House The Plaza</li>
+					  <li class="list-group-item"><a href="www.melia.com/Sol_House/Mallorca‎" target="_blank">Sol House The Plaza Hotel Website</a></li>
+					  <li class="list-group-item active">Pure Salt Port Adriano</li>
+					  <li class="list-group-item"><a href="https://www.puresaltluxuryhotels.com/es/port-adriano" target="_blank">Port Adriano Hotel Website</a></li>
+					  <li class="list-group-item active">Sol House The Studio Calvia Beach</li>
+					  <li class="list-group-item"><a href="">Sol House The Studio Calvia Beach Hotel Website</a></li>
+					</ul>
+				</div>
 			</div>
 		</div>
 	</div>
