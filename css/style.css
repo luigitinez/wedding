@@ -36,6 +36,10 @@ body{
 	background-color: #ea899a;
 	padding: 15px;
 }
+#trans{
+    background-color: #ff471a;
+    padding: 15px;
+}
 
 #gifts{
     background-color: #875892;
@@ -45,6 +49,11 @@ body{
 #stance{
     background-color:#FFAC33;
     padding: 15px;
+}
+
+#countdown{
+
+
 }
 
 #scroll {

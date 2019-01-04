@@ -20,10 +20,12 @@
 	  </button>
 	  <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 	    <div class="navbar-nav">
-	      <a class="nav-item nav-link" href="#welcome">Welcome</a>
 	      <a class="nav-item nav-link" href="#rsvp">RSVP</a>
-	      <a class="nav-item nav-link" href="#contact">Contact</a>
 	      <a class="nav-item nav-link" href="#map">Map</a>
+   	      <a class="nav-item nav-link" href="#gifts">Gifts</a>
+	      <a class="nav-item nav-link" href="#stance">Stance</a>
+
+	    
 	    </div>
 	  </div>
 	</nav>
@@ -137,7 +139,10 @@
 						<h3 class="display-3">Confirmación</h3>
 
 						<p class="mb-0">
-							Necesitamos que confirmen su asistencia. Rellenen los nombres de las persona que asistirán a la celebración y si necesitan algún tipo de información adicional también pueden contactar con nosotros por las dudas que tengan.
+							Porfavor confirmen su asistencia antes del 1 de Marzo 2019. <br>
+							Rellenen su nombre y apellidos en el siguiente formulario. <br>
+
+							 Si teneis alguna duda porfavor contactar con nosotros por aquí: <br>
 						</p>
 					
 					</div>	
@@ -270,16 +275,50 @@
 			</div>
 			<div class="row">
 				<div class="col-md-12">
+					<center>
 					<ul class="list-group">
 					  <li class="list-group-item active">Sol House The Plaza</li>
-					  <li class="list-group-item"><a href="www.melia.com/Sol_House/Mallorca‎" target="_blank">Sol House The Plaza Hotel Website</a></li>
+					  <li class="list-group-item"><a href="https://www.melia.com/es/hoteles/espana/mallorca/sol-house-plaza/index.htm" target="_blank">Sol House The Plaza Hotel Website</a></li>
 					  <li class="list-group-item active">Pure Salt Port Adriano</li>
 					  <li class="list-group-item"><a href="https://www.puresaltluxuryhotels.com/es/port-adriano" target="_blank">Port Adriano Hotel Website</a></li>
 					  <li class="list-group-item active">Sol House The Studio Calvia Beach</li>
-					  <li class="list-group-item"><a href="">Sol House The Studio Calvia Beach Hotel Website</a></li>
+					  <li class="list-group-item"><a href="https://www.melia.com/es/hoteles/espana/mallorca/sol-house-the-studio-calvia-beach/index.html?esl-k=sem-google%257Cng%257Cc281148106477%257Cme%257Cksol%2520house%2520the%2520studio%2520calvia%2520beach%257Cp%257Ct%257Cdc%257Ca55460857605%257Cg1380467885&&gclid=CjwKCAiAgrfhBRA3EiwAnfF4tvUm8DrcXzU4ZvBeJ7M9bt5D3qMTuYpZgDwTFeAl-AMd8IT2Tbe8phoCiAYQAvD_BwE&gclsrc=aw.ds" target="_blank">Sol House The Studio Calvia Beach Hotel Website</a></li>
 					</ul>
+				</center>
 				</div>
 			</div>
+		</div>
+		<div class="tap" id="trans">
+			<div class="row">
+				<div class="col-md-6">
+					<blockquote class="blockquote text-center">
+						<h3 class="display-3">Transport</h3>
+						<p class="mb-0">
+							Bus Service To the Finca: (We Stage at 15:00 pm ) Bus Departs 15:15pm.<br>
+							Meeting points will be confirmed as soon as possible.<br>
+							Generally we can add a 5 minute buffer as courtesy but can’t wait longer than this or it may cause undesired delays.<br><br>
+							<u>DON’T MISS THE BUS!</u>
+
+						</p>
+					</blockquote>
+					
+				</div>
+				<div class="col-md-6">
+					<blockquote class="blockquote text-center">
+						<h3 class="display-3">Transporte</h3>
+						<p class="mb-0">
+							Servicio de bus a la finca: (Deben presentarse a las 15:00pm) El bus partirá a las 15:15pm. <br>
+							Los puntos de encuentro serán confirmados lo antes posible<br>
+							Existe la posibilidad de demorar la salida 5 minutos, pero se exige puntualidad u ocurrirán demoras no deseadas.<br><br>
+
+							<u> NO PIERDAN EL BUS!</u>
+						</p>
+						
+					</blockquote>
+					
+				</div>
+
+			</div>		
 		</div>
 	</div>
 
